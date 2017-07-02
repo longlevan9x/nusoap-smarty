@@ -1,0 +1,4 @@
+﻿1 - Đổi tên shophoa_XXX -> shophoa_sobaodanh_hoten
+2 - Địa chỉ service 
+ http://dichvuthi.csc.edu.vn/ws_qlbh/services.php
+3 - File cơ sở dữ liệu nằm trong thư mục cơ sở dữ liệu
